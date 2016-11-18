@@ -151,6 +151,7 @@ public class CourseSearchActivity extends AppCompatActivity {
             }
         }
 
+
         @Override
         public void onNothingSelected(AdapterView<?> adapterView) {
             adapterView.setSelection(0);
